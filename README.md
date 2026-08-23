@@ -12,6 +12,9 @@ an application whose accessibility layer is incomplete.
 ## Demo :
 https://drive.google.com/file/d/1stgUjiq4RTdu3CWMv9-f99yX_o9TfLUa/view?usp=sharing
 
+## Class Diagram : 
+
+<img width="3136" height="2748" alt="fakturama-class-diagram-hires (1)" src="https://github.com/user-attachments/assets/8dc00da5-d3ca-4ea5-9dac-ddf74508b147" />
 
 
 ## Requirements
