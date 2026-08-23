@@ -7,8 +7,12 @@ on Windows.
 Google Gemini reads the image into structured data; Microsoft UI Automation
 (via `pywinauto`) drives the desktop UI. The extraction is the straightforward
 half. Most of the engineering is in making the automation deterministic against
-an application whose accessibility layer is incomplete — see
-[ARCHITECTURE.md](ARCHITECTURE.md) for the design and the reasoning behind it.
+an application whose accessibility layer is incomplete.
+
+## Demo :
+https://drive.google.com/file/d/1stgUjiq4RTdu3CWMv9-f99yX_o9TfLUa/view?usp=sharing
+
+
 
 ## Requirements
 
