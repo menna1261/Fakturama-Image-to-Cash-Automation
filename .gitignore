@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+prototype/ui_tree_dump.txt
+prototype/order_button_fallback.png
+ignore/
+# Run/diagnostic logs written by --log-file and dump_screen.py --out
+last_run.log
+screen_dump.log
