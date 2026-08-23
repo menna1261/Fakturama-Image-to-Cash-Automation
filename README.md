@@ -127,7 +127,6 @@ Nothing in `utils/` imports `workflow/`, and the two `utils` packages never
 import each other. A UI change touches one data file; an image-format change
 touches the schema; a process change touches one file in `workflow/`.
 
-Full walkthrough: [ARCHITECTURE.md](ARCHITECTURE.md).
 Step-by-step status: [TODOs.md](TODOs.md).
 
 ## Known gaps
